@@ -23,7 +23,15 @@ Here is a summary of my progress in the game:
 | Inkwell Isle One 🌳 	| Forest Follies (RUN & GUN) 		| None 			| None 			| 1:46 		| 1/3 		| 3/3		| 5/5 			| ⭐⭐ 		| A- |
 | Inkwell Isle One 🌳 	| Ruse Of An Ooze (REGULAR) 		| Goopy Le Grande 	| Goopy Le Grande 	| 2:14 		| 1/3 		| 0/3 		| 5/6			| ⭐⭐			| C+ |
 | Inkwell Isle One 🌳	| Treetop Trouble (RUN & GUN) 			| None					| None					| 4:21			| 2/3			| 3/3			| 5/5					| ⭐⭐					| B	 |
+| Inkwell Isle One 🌳 	| Botanic Panic! (REGULAR) 		| The Root Pack 	| The Root Pack 	| 2:18 		| 3/3 		| 3/3 		| 6/6 			| ⭐⭐ 		| A  |
+| Inkwell Isle One 🌳	| Clip Joint Calamity (REGULAR) 		| Ribby and Croaks		| Ribby and Croaks		| 2:42			| 1/3			| 0/3			| 5/6					| ⭐⭐					| C  |
+---
+# Legendary Chalice Rescue 🕍
 
+| World 🌎 		| Mausoleum 🕍 	| UNLOCKED 🔓   | Description 📝 |
+| :------: 		| :----------: 	| :---------:   | :---------: 	|
+| Inkwell Isle One 🌳 	| Mausoleum I 	| **SUPER ART I Energy Beam** | *A devastating attack spills from your head. Horizontal only (ground or air).* |
+---
 
 # Cuphead EQUIP CARD
 
@@ -35,7 +43,7 @@ Here is a summary of my progress in the game:
 # EXTRA
 | **Completed % 💯** |  Gold Coins Collected 🪙 |
 |:------: | :------: |
-| **14%** |**14** |
+| **22%** |**14** |
 
 ---
 # Credits and acknowledgements
