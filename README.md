@@ -25,6 +25,8 @@ Here is a summary of my progress in the game:
 | Inkwell Isle One 🌳	| Treetop Trouble (RUN & GUN) 			| None					| None					| 4:21			| 2/3			| 3/3			| 5/5					| ⭐⭐					| B	 |
 | Inkwell Isle One 🌳 	| Botanic Panic! (REGULAR) 		| The Root Pack 	| The Root Pack 	| 2:18 		| 3/3 		| 3/3 		| 6/6 			| ⭐⭐ 		| A  |
 | Inkwell Isle One 🌳	| Clip Joint Calamity (REGULAR) 		| Ribby and Croaks		| Ribby and Croaks		| 2:42			| 1/3			| 0/3			| 5/6					| ⭐⭐					| C  |
+| Inkwell Isle One 🌳	| Floral Fury (REGULAR) 		| Cagney Carnation		| Cagney Carnation		| 1:51			| 1/3			| 2/3			| 6/6					| ⭐⭐					| B  |
+| Inkwell Isle One 🌳	| Threatenin' Zeppelin (REGULAR) 		| Hilda Berg		| Hilda Berg		| 2:41			| 2/3			| 2/3			| 6/6					| ⭐⭐					| B  |
 ---
 # Legendary Chalice Rescue 🕍
 
@@ -43,7 +45,7 @@ Here is a summary of my progress in the game:
 # EXTRA
 | **Completed % 💯** |  Gold Coins Collected 🪙 |
 |:------: | :------: |
-| **22%** |**14** |
+| **30%** |**15** |
 
 ---
 # Credits and acknowledgements
