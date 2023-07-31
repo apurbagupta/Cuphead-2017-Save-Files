@@ -27,6 +27,10 @@ Here is a summary of my progress in the game:
 | Inkwell Isle One 🌳	| Clip Joint Calamity (REGULAR) 		| Ribby and Croaks		| Ribby and Croaks		| 2:42			| 1/3			| 0/3			| 5/6					| ⭐⭐					| C  |
 | Inkwell Isle One 🌳	| Floral Fury (REGULAR) 		| Cagney Carnation		| Cagney Carnation		| 1:51			| 1/3			| 2/3			| 6/6					| ⭐⭐					| B  |
 | Inkwell Isle One 🌳	| Threatenin' Zeppelin (REGULAR) 		| Hilda Berg		| Hilda Berg		| 2:41			| 2/3			| 2/3			| 6/6					| ⭐⭐					| B  |
+## Inkwell Isle Two 🎡
+| World 🌎 		| Level 🏁 				| Boss 👹 		| SOUL CONTRACT 📜 	| TIME ⏱️ 	| HP Bonus ❤️ 	| Parry ✋ 	| Gold Coins 🪙 	| Skill Level 🌟 	| GRADE 🏆 |
+| :------: 		| :------: 				| :-----: 		| :--------------: 	| :------: 	| :--------: 	| :-----: 	| :----------: 		| :----------: 		| :-------: |
+| Inkwell Isle Two 🎡 	| Sugarland Shimmy (REGULAR) 		| Baroness Von Bon Bon 			| Baroness Von Bon Bon 			| 2:30 		| 1/3 		| 3/3		| 5/6 			| ⭐⭐ 		| B |
 ---
 # Legendary Chalice Rescue 🕍
 
@@ -45,7 +49,7 @@ Here is a summary of my progress in the game:
 # EXTRA
 | **Completed % 💯** |  Gold Coins Collected 🪙 |
 |:------: | :------: |
-| **30%** |**15** |
+| **33%** |**15** |
 
 ---
 # Credits and acknowledgements
