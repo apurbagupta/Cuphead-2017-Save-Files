@@ -18,38 +18,39 @@ To run the game, you can launch it from Steam or GOG, or from the game folder.
 Here is a summary of my progress in the game:
 
 ## Inkwell Isle One 🌳
-| World 🌎 		| Level 🏁 				| Boss 👹 		| SOUL CONTRACT 📜 	| TIME ⏱️ 	| HP Bonus ❤️ 	| Parry ✋ 	| Gold Coins 🪙 	| Skill Level 🌟 	| GRADE 🏆 |
-| :------: 		| :------: 				| :-----: 		| :--------------: 	| :------: 	| :--------: 	| :-----: 	| :----------: 		| :----------: 		| :-------: |
-| Inkwell Isle One 🌳 	| Forest Follies (RUN & GUN) 		| None 			| None 			| 1:46 		| 1/3 		| 3/3		| 5/5 			| ⭐⭐ 		| A- |
-| Inkwell Isle One 🌳 	| Ruse Of An Ooze (REGULAR) 		| Goopy Le Grande 	| Goopy Le Grande 	| 2:14 		| 1/3 		| 0/3 		| 5/6			| ⭐⭐			| C+ |
-| Inkwell Isle One 🌳	| Treetop Trouble (RUN & GUN) 			| None					| None					| 4:21			| 2/3			| 3/3			| 5/5					| ⭐⭐					| B	 |
-| Inkwell Isle One 🌳 	| Botanic Panic! (REGULAR) 		| The Root Pack 	| The Root Pack 	| 2:18 		| 3/3 		| 3/3 		| 6/6 			| ⭐⭐ 		| A  |
-| Inkwell Isle One 🌳	| Clip Joint Calamity (REGULAR) 		| Ribby and Croaks		| Ribby and Croaks		| 2:42			| 1/3			| 0/3			| 5/6					| ⭐⭐					| C  |
-| Inkwell Isle One 🌳	| Floral Fury (REGULAR) 		| Cagney Carnation		| Cagney Carnation		| 1:51			| 1/3			| 2/3			| 6/6					| ⭐⭐					| B  |
-| Inkwell Isle One 🌳	| Threatenin' Zeppelin (REGULAR) 		| Hilda Berg		| Hilda Berg		| 2:41			| 2/3			| 2/3			| 6/6					| ⭐⭐					| B  |
+| World 🌎 		        | Level 🏁 				            | Boss 👹 		            | SOUL CONTRACT 📜 	            | TIME ⏱️ | HP Bonus ❤️ | Parry ✋ | Super Meter 💨 | Gold Coins 🪙 | Skill Level 🌟 | GRADE 🏆 |
+|:---------------------:|:---------------------------------:|:-------------------------:|:-----------------------------:|:------:|:----------:|:---------:|:--------------:|:------------:|:-------------:|:--------:|
+| Inkwell Isle One 🌳 	| Forest Follies (RUN & GUN) 	    | None 			            | None 			                | 1:46   | 1/3        | 3/3       | None           | 5/5          | ⭐⭐           | A-       |
+| Inkwell Isle One 🌳 	| Ruse Of An Ooze (REGULAR) 	    | Goopy Le Grande 	        | Goopy Le Grande 	            | 1:57   | 3/3        | 3/3       | 6/6            | None         | ⭐⭐           | A+       |
+| Inkwell Isle One 🌳	| Treetop Trouble (RUN & GUN) 	    | None					    | None					        | 3:15   | 3/3        | 3/3       | None           | 5/5          | ⭐⭐           | A-        |
+| Inkwell Isle One 🌳 	| Botanic Panic! (REGULAR) 		    | The Root Pack 	        | The Root Pack 	            | 1:40   | 3/3        | 3/3       | 6/6            | None         | ⭐⭐           | A+       |
+| Inkwell Isle One 🌳	| Clip Joint Calamity (REGULAR)     | Ribby and Croaks		    | Ribby and Croaks              | 2:47   | 3/3        | 3/3       | 6/6            | None         | ⭐⭐           | A        |
+| Inkwell Isle One 🌳	| Floral Fury (REGULAR) 		    | Cagney Carnation		    | Cagney Carnation		        | 1:51   | 1/3        | 2/3       | 6/6            | None         | ⭐⭐           | B        |
+| Inkwell Isle One 🌳	| Threatenin' Zeppelin (REGULAR)    | Hilda Berg		        | Hilda Berg		            | 2:41   | 2/3        | 2/3       | 6/6            | None         | ⭐⭐           | B        
 ## Inkwell Isle Two 🎡
-| World 🌎 		| Level 🏁 				| Boss 👹 		| SOUL CONTRACT 📜 	| TIME ⏱️ 	| HP Bonus ❤️ 	| Parry ✋ 	| Gold Coins 🪙 	| Skill Level 🌟 	| GRADE 🏆 |
-| :------: 		| :------: 				| :-----: 		| :--------------: 	| :------: 	| :--------: 	| :-----: 	| :----------: 		| :----------: 		| :-------: |
-| Inkwell Isle Two 🎡 	| Sugarland Shimmy (REGULAR) 		| Baroness Von Bon Bon 			| Baroness Von Bon Bon 			| 2:30 		| 1/3 		| 3/3		| 5/6 			| ⭐⭐ 		| B |
+| World 🌎 		        | Level 🏁 				            | Boss 👹 		            | SOUL CONTRACT 📜 	            | TIME ⏱️ | HP Bonus ❤️ | Parry ✋ | Super Meter 💨 | Gold Coins 🪙 | Skill Level 🌟 | GRADE 🏆 |
+| :--------------------:|:---------------------------------:|:-------------------------:|:-----------------------------:|:------:|:----------:|:---------:|:--------------:|:------------:|:-------------:|:--------:|
+| Inkwell Isle Two 🎡 	| Sugarland Shimmy (REGULAR) 	    | Baroness Von Bon Bon      | Baroness Von Bon Bon 		    | 2:30   | 1/3 		  | 3/3		  | 5/6            | None         | ⭐⭐           | B        |
+| Inkwell Isle Two 🎡 	| Funfair Fever (RUN & GUN) 	    | None                      | None 		                    | 3:57   | 3/3 		  | 3/3		  | None           | 5/5          | ⭐⭐           | B        |
 ---
 # Legendary Chalice Rescue 🕍
 
-| World 🌎 		| Mausoleum 🕍 	| UNLOCKED 🔓   | Description 📝 |
-| :------: 		| :----------: 	| :---------:   | :---------: 	|
-| Inkwell Isle One 🌳 	| Mausoleum I 	| **SUPER ART I Energy Beam** | *A devastating attack spills from your head. Horizontal only (ground or air).* |
+| World 🌎 		        | Mausoleum 🕍 	 | UNLOCKED 🔓                   | Description 📝                                                                 |
+|:---------------------:|:-------------:|:-----------------------------:|:------------------------------------------------------------------------------:|
+| Inkwell Isle One 🌳 	| Mausoleum I 	| **SUPER ART I Energy Beam**   | *A devastating attack spills from your head. Horizontal only (ground or air).* |
 ---
 
 # Cuphead EQUIP CARD
 
-|Shot-A 🔫  		| Description 📝  		| Shot-B 🔫  		| Description 📝  		| Charm 🍀  		| Description 📝  		|
-|:------: 		| :------: 		| :------: 		| :------: 		| :------: 		| :------: 		|
-|**PEASHOOTER (EX: Mega Blast)**| *Standard issue weapon. Long range with average damage.*| **N/A** | *N/A* | **N/A** | *N/A* |
+|Shot-A 🔫                              | Description 📝                                                               | Shot-B 🔫  | Description 📝     | Charm 🍀  | Description 📝   |
+|:-------------------------------------:|:----------------------------------------------------------------------------:|:----------:|:------------------:|:--------:|:----------------:|
+| **PEASHOOTER (EX: Mega Blast)**       | *Standard issue weapon. Long range with average damage.*                     | **N/A**    | *N/A*              | **N/A**  | *N/A*            |
 ---
 
 # EXTRA
-| **Completed % 💯** |  Gold Coins Collected 🪙 |
-|:------: | :------: |
-| **33%** |**15** |
+| **Completed % 💯** | Gold Coins Collected 🪙 |
+|:------------------:|:----------------------:|
+| **37%**            | **20**                 |
 
 ---
 # Credits and acknowledgements
