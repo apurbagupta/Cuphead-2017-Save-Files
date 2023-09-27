@@ -26,13 +26,14 @@ Here is a summary of my progress in the game:
 | Inkwell Isle One 🌳 	| Botanic Panic! (REGULAR) 		    | The Root Pack 	        | The Root Pack 	            | 1:40   | 3/3        | 3/3       | 6/6            | None         | ⭐⭐           | A+       |
 | Inkwell Isle One 🌳	| Clip Joint Calamity (REGULAR)     | Ribby and Croaks		    | Ribby and Croaks              | 2:47   | 3/3        | 3/3       | 6/6            | None         | ⭐⭐           | A        |
 | Inkwell Isle One 🌳	| Floral Fury (REGULAR) 		    | Cagney Carnation		    | Cagney Carnation		        | 1:51   | 1/3        | 2/3       | 6/6            | None         | ⭐⭐           | B        |
-| Inkwell Isle One 🌳	| Threatenin' Zeppelin (REGULAR)    | Hilda Berg		        | Hilda Berg		            | 2:41   | 2/3        | 2/3       | 6/6            | None         | ⭐⭐           | B        |
+| Inkwell Isle One 🌳	| Threatenin' Zeppelin (REGULAR)    | Hilda Berg		        | Hilda Berg		            | 1:49   | 3/3        | 3/3       | 6/6            | None         | ⭐⭐           | A+       |
 ## Inkwell Isle Two 🎡
 | World 🌎 		        | Level 🏁 				            | Boss 👹 		            | SOUL CONTRACT 📜 	            | TIME ⏱️ | HP Bonus ❤️ | Parry ✋ | Super Meter 💨 | Gold Coins 🪙 | Skill Level 🌟 | GRADE 🏆 |
 | :--------------------:|:---------------------------------:|:-------------------------:|:-----------------------------:|:------:|:----------:|:---------:|:--------------:|:------------:|:-------------:|:--------:|
 | Inkwell Isle Two 🎡 	| Sugarland Shimmy (REGULAR) 	    | Baroness Von Bon Bon      | Baroness Von Bon Bon 		    | 2:30   | 1/3 		  | 3/3		  | 5/6            | None         | ⭐⭐           | B        |
 | Inkwell Isle Two 🎡 	| Funfair Fever (RUN & GUN) 	    | None                      | None 		                    | 1:47   | 3/3 		  | 3/3		  | None           | 5/5          | ⭐⭐           | A+       |
-| Inkwell Isle Two 🎡 	| Aviary Action! (REGULAR) 	        | Wally Warbles             | Wally Warbles 		        | 3:54   | 3/3 		  | 3/3		  | 6/6            | None         | ⭐⭐           | B+       |
+| Inkwell Isle Two 🎡 	| Aviary Action! (REGULAR) 	        | Wally Warbles             | Wally Warbles 		        | 2:46   | 3/3 		  | 3/3		  | 6/6            | None         | ⭐⭐           | A        |
+| Inkwell Isle Two 🎡 	| Carnival Kerfuffle! (REGULAR) 	| Beppi The Clown           | Beppi The Clown 		        | 2:20   | 1/3 		  | 3/3		  | 6/6            | None         | ⭐⭐           | B+       |
 ---
 # Legendary Chalice Rescue 🕍
 
@@ -52,7 +53,7 @@ Here is a summary of my progress in the game:
 # EXTRA
 | **Completed % 💯** | Gold Coins Collected 🪙 |
 |:------------------:|:----------------------:|
-| **42%**            | **20**                 |
+| **46%**            | **20**                 |
 
 ---
 # Credits and acknowledgements
